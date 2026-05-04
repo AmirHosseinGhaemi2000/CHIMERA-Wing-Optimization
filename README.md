@@ -37,3 +37,7 @@ The optimization design vector is
 
 ```text
 x = [root chord, angle of attack, sweep angle, span variable, twist angle, taper ratio, dihedral angle, velocity]
+
+## Citation
+
+If you use this repository, code, models, or results in academic work, please cite the associated paper.
